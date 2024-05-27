@@ -1,3 +1,9 @@
+# Create a publically accesible bucket in GCP with Terraform.  You must complete the following tasks.
+# 1) Terraform script
+# 2) Git Push the script to your Github
+# 3) Output file must show the public link
+# 4) Must have an index.html file within
+
 terraform {
   required_providers {
     google = {
